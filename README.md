@@ -1,0 +1,2 @@
+# SecurityCopilot-ThreatHuntingAgentPromptSamples
+Security Copilot Threat Hunting Agent のサンプルプロンプト集
